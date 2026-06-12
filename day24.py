@@ -88,17 +88,3 @@ if how:
     print(f"{mobile_} this is india number")
 else:
     print(f"{mobile_}this is not indian number")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
